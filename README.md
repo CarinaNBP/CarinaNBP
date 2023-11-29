@@ -2,5 +2,5 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS and Ruby On Rails.
-- I'm to learning TypeScript, NextJS, styled-component and SASS.
+- HTML, CSS, JavaScript, Ruby On Rails, VueJS and ReactJS.
+- Datadog, Sidekiq, Postgres, SQL and RabbitMQ.
